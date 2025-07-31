@@ -34,9 +34,10 @@ I’m currently diving deeper into ML model and data pipeline development, and I
 ---
 
 ### 🚀 **Other Projects**
-- **Airbnb ML Development** – Predicted which Airbnb listings would get high ratings using feature engineering & classification models 
-- **JPMorgan “Data for Good” Hackathon** – Clustered underserved Chicago zip codes for a nonprofit partner  
-- **Model Selection for Logistic Regression** – Compared and tuned logistic regression models
+- **[Airbnb ML Development](#)** – Predicted which Airbnb listings would get high ratings using feature engineering & classification models
+- **[JPMorgan Chase "Data for Good Challenge"](#)** – Clustered underserved Chicago zip codes to pinpoint ideal neighborhoods for launching an after-school program for a nonprofit partner
+- **[Model Selection for Logistic Regression](#)** – Compared and tuned logistic regression models from scratch
+
 
 ---
 
