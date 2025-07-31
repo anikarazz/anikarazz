@@ -7,9 +7,7 @@
 💻 **Data Engineering Analyst Intern @ Accenture**  
 🌟 Interested in **Data and Cloud Solutions**
 
-I’m passionate about using data and AI to bridge the gap between technical solutions and business impact, whether I'm **building predictive models**, **creating interactive dashboards**, or **deploying cloud solutions**.
-
-I’m currently diving deeper into ML model and data pipeline development, and I’m looking for full-time job opportunities and projects where I can grow my skills, learn from industry mentors, and make meaningful contributions!
+I’m passionate about using data and AI to bridge the gap between technical solutions and business impact, whether I'm **building predictive models**, **creating interactive dashboards**, or **deploying cloud-native technologies**
 
 ---
 
@@ -20,7 +18,7 @@ I’m currently diving deeper into ML model and data pipeline development, and I
 - Designed a **FastAPI backend** with a customizable filtering system to choose ideal employees  
 - Developed an **interactive React frontend** with real-time hospital resource mapping 
 
-📂 *[View project here](#)*
+📂 *[View project here](https://github.com/anikarazz/hca-healthcare-data-challenge)*
 
 ---
 
@@ -34,9 +32,9 @@ I’m currently diving deeper into ML model and data pipeline development, and I
 ---
 
 ### 🚀 **Other Projects**
-- **[Airbnb ML Development](#)** – Predicted which Airbnb listings would get high ratings using feature engineering & classification models
-- **[JPMorgan Chase "Data for Good Challenge"](#)** – Clustered underserved Chicago zip codes to pinpoint ideal neighborhoods for launching an after-school program for a nonprofit partner
-- **[Model Selection for Logistic Regression](#)** – Compared and tuned logistic regression models from scratch
+- **Airbnb ML Development** – Predicted which Airbnb listings would get high ratings using feature engineering & classification models
+- **JPMorgan Chase "Data for Good" Hackathon** – Clustered underserved Chicago zip codes to pinpoint ideal neighborhoods for launching an after-school program for a nonprofit partner
+- **Model Selection for Logistic Regression** – Compared and tuned logistic regression models from scratch
 
 
 ---
