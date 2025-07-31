@@ -1,6 +1,3 @@
-<img src="https://github.com/user-attachments/assets/2fbb46ba-b2c2-4699-a61a-85f6c98d0bcd" width="120" align="left" />
-<br clear="left"/>
-
 ## 👋 Hi, I'm Anika!
 
 🎓 **Senior at Temple University** – Management Information Systems  
