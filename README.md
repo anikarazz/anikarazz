@@ -41,7 +41,7 @@ I’m currently diving deeper into ML model and data pipeline development, and I
 ---
 
 ### 📫 **How to Reach Me**
-✉️  **anika.razzak@temple.edu**  
+✉️  **anika10razzak@gmail.com**  
 👤 [**LinkedIn Profile**](https://www.linkedin.com/in/anika-razzak/)
 
 
