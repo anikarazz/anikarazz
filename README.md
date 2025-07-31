@@ -1,3 +1,6 @@
+<img src="headshot.png" width="120" align="left" />
+<br clear="left"/>
+
 ## 👋 Hi, I'm Anika!
 
 🎓 **Senior at Temple University** – Management Information Systems  
