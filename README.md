@@ -1,4 +1,48 @@
-## Hi there 👋
+## 👋 Hi, I'm Anika!
+
+🎓 **Senior at Temple University** – Management Information Systems  
+💻 **Data Engineering Analyst Intern @ Accenture**  
+🌟 Interested in **Data and Cloud Solutions**
+
+I’m passionate about using data and AI to bridge the gap between technical solutions and business impact, whether I'm **building predictive models**, **creating interactive dashboards**, or **deploying cloud solutions**.
+
+I’m currently diving deeper into ML model and data pipeline development, and I’m looking for full-time job opportunities and projects where I can grow my skills, learn from industry mentors, and make meaningful contributions!
+
+---
+
+### 🎯 **Featured Project: HCA Healthcare Challenge – National Winner**
+🏆 **Placed 2nd out of 7 finalist teams** and **presented directly to HCA executives**
+
+- Built a **disaster-preparedness web service** to help hospitals allocate and deploy supervisors during crises  
+- Designed a **FastAPI backend** with a customizable filtering system to choose ideal employees  
+- Developed an **interactive React frontend** with real-time hospital resource mapping 
+
+📂 *[View project here](#)*
+
+---
+
+### 🛠 **Tech Stack**
+**Languages:** Python, SQL, JavaScript  
+**ML & Data:** Pandas, NumPy, scikit-learn, Tableau  
+**Web Dev:** React, Node.js, HTML/CSS  
+**Cloud:** AWS (Lambda, API Gateway, S3, CodePipeline, CodeCommit)  
+**Databases:** MySQL, PostgreSQL  
+
+---
+
+### 🚀 **Other Projects**
+- **Airbnb ML Development** – Predicted which Airbnb listings would get high ratings using feature engineering & classification models 
+- **JPMorgan “Data for Good” Hackathon** – Clustered underserved Chicago zip codes for a nonprofit partner  
+- **Model Selection for Logistic Regression** – Compared and tuned logistic regression models
+
+---
+
+### 📫 **How to Reach Me**
+✉️  **anika.razzak@temple.edu**  
+👤 [**LinkedIn Profile**](https://www.linkedin.com/in/anika-razzak/)
+
+
+
 
 <!--
 **anikarazz/anikarazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
