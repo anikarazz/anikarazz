@@ -11,27 +11,27 @@ I’m passionate about using data and AI to bridge the gap between technical sol
 ### 🎯 **Featured Project: HCA Healthcare Challenge – National Winner**
 🏆 **Placed 2nd out of 7 finalist teams** and **presented directly to HCA executives**
 
-- Built a **disaster-preparedness web service** to help hospitals allocate and deploy supervisors during crises  
+- Built a **disaster-preparedness web service** to help HCA hospitals allocate and deploy supervisors during crises  
 - Designed a **FastAPI backend** with a customizable filtering system to choose ideal employees  
 - Developed an **interactive React frontend** with real-time hospital resource mapping 
 
-📂 *[View project here](https://github.com/anikarazz/hca-healthcare-data-challenge)*
+📂 *[View project here](https://github.com/anikarazz/)*
 
 ---
 
 ### 🛠 **Tech Stack**
-**Languages:** Python, SQL, JavaScript  
-**ML & Data:** Pandas, NumPy, scikit-learn, Tableau  
+**Languages:** Python, JavaScript, SQL
+**ML & Data:** Pandas, NumPy, scikit-learn, Matplotlib  
 **Web Dev:** React, Node.js, HTML/CSS  
-**Cloud:** AWS (Lambda, API Gateway, S3, CodePipeline, CodeCommit)  
+**Cloud:** AWS (Lambda, API Gateway, S3, RDS, DynamoDB, CodePipeline, CodeCommit)  
 **Databases:** MySQL, PostgreSQL  
 
 ---
 
 ### 🚀 **Other Projects**
 - **Airbnb ML Development** – Predicted which Airbnb listings would get high ratings using feature engineering & classification models
+- **Pennsylvania Turnpike Toll Calculator** – Built AWS-based toll calculator web app using REST APIs, Lambda, RDS, VPC, handling 400% more traffic w/ autoscaling
 - **JPMorgan Chase "Data for Good" Hackathon** – Clustered underserved Chicago zip codes to pinpoint ideal neighborhoods for launching an after-school program for a nonprofit partner
-- **Model Selection for Logistic Regression** – Compared and tuned logistic regression models from scratch
 
 
 ---
