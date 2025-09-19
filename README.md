@@ -29,7 +29,7 @@ I’m passionate about using data and AI to bridge the gap between technical sol
 ---
 
 ### 🚀 **Other Projects**
-- **Airbnb ML Development** – Predicted which Airbnb listings would get high ratings using feature engineering & classification models
+- [**Airbnb ML Development**](https://github.com/anikarazz/Airbnb-Listing-Review-Score-Prediction) – Predicted which Airbnb listings would get high ratings using feature engineering & classification models
 - **Pennsylvania Turnpike Toll Calculator** – Built AWS-based toll calculator web app using REST APIs, Lambda, RDS, VPC, handling 400% more traffic w/ autoscaling
 - **JPMorgan Chase "Data for Good" Hackathon** – Clustered underserved Chicago zip codes to pinpoint ideal neighborhoods for launching an after-school program for a nonprofit partner
 
