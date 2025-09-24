@@ -20,7 +20,7 @@ I’m passionate about using data and AI to bridge the gap between technical sol
 ---
 
 ### 🛠 **Tech Stack**
-**Languages:** Python, JavaScript, SQL
+**Languages:** Python, JavaScript, SQL      
 **ML & Data:** Pandas, NumPy, scikit-learn, Matplotlib  
 **Web Dev:** React, Node.js, HTML/CSS  
 **Cloud:** AWS (Lambda, API Gateway, S3, RDS, DynamoDB, CodePipeline, CodeCommit)  
